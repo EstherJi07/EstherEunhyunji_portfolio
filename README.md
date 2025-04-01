@@ -10,6 +10,7 @@
          Stem cell engineering, Molecular & Cell Biology Techniques
 > 
 > 프로그래밍 : Python (pandas, numpy, scikit-learn, pytorch, matplotlib), SQL, Excel, Git<br>
+>
 > 협업 : Git, Notion
 
 
@@ -29,8 +30,8 @@
 - 희귀 신경퇴행성 질환 및 암 치료를 위한 유전자·세포치료제 후보물질 스크리닝 및 특성 평가
     - 10건 이상의 후보물질에 대한 *in vitro* 효능 검증 완료
 - 렌티바이러스를 활용하여 기능성 유전자가 탑재된 중간엽 줄기세포(MSC) 플랫폼 구축
-- CNS 및 유전자 치료제의 임상시험계획(IND) 승인 신청에서<br>
-  국내외 규제 기관의 요구 사항을 충족한 허가 문서 작성 및 대응 업무 수행
+- CNS 및 유전자 치료제의 임상시험계획(IND) 승인 신청
+    - 국내외 규제 기관의 요구 사항을 충족한 허가 문서 작성 및 대응 업무 수행
 
 **연구원** @ 연세대학 줄기세포연구센터  (2015 - 2016)
 
@@ -49,6 +50,7 @@
 🏫 **M.S. in Medical Sciences** (2013 - 2015)
  - Yonsei University
  - Thesis: "The role of CIIA gene in cellular reprogramming"
+
 🏫 **B.S. in Biotechnology and Bioinformatics** (2007 - 2013)
  - Korea University
 
@@ -59,6 +61,7 @@
 
 **[딥러닝: 뇌질환 약물 AAV 전달체]**
 - 딥러닝을 이용해 뇌로 약물을 안전하게 전달할 수 있는 유전자 운반체를 개발한 연구
+
 
 ![AAV_ChiMA](assets/img/Project2.png)
 
