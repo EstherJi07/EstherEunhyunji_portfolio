@@ -7,9 +7,9 @@
   최근에는 생명과학적 이해를 데이터 사이언스로 연결하는 융합적 접근을 통해 정밀 의료와 치료제 개발의 가능성을 확장하고 있습니다"
 
 > 실험 : Virus vector engineering, Virus production, Gene & Cell therapy development,<br>
->        Stem cell engineering, Molecular & Cell Biology Techniques
+         Stem cell engineering, Molecular & Cell Biology Techniques
 > 
-> 프로그래밍 : Python (pandas, numpy, scikit-learn, pytorch, matplotlib), SQL, Excel, Git
+> 프로그래밍 : Python (pandas, numpy, scikit-learn, pytorch, matplotlib), SQL, Excel, Git<br>
 > 협업 : Git, Notion
 
 
