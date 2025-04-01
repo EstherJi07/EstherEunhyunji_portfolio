@@ -54,12 +54,12 @@
 
 ## 📊 프로젝트 (Project)
 ------
-![AAV_CNS](assets/img/project1.png)
+![AAV_CNS](assets/img/Project1.png)
 
 [딥러닝: 뇌질환 약물 AAV 전달체  (https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb)
 - 딥러닝을 이용해 뇌로 약물을 안전하게 전달할 수 있는 유전자 운반체를 개발한 연구
 
-![AAV_ChiMA](assets/img/project2.png)
+![AAV_ChiMA](assets/img/Project2.png)
 
 [머신러닝: 골관절염 약물 AAV-ChiMA 전달구조체] (https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
 -머신러닝이로 연골 재생에 효과적인 AAV 캡시드를 설계하고, 이를 하이드로겔을 이용해 안정적으로 전달하여 골관절염 치료에 활용한 연구
