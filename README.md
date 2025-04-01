@@ -6,8 +6,7 @@
 “ 바이러스 벡터, 줄기세포, 바이오소재 기반 치료 전략을 통해 환자의 삶을 변화시키는 연구에 집중해 왔으며,<br>
   최근에는 생명과학적 이해를 데이터 사이언스로 연결하는 융합적 접근을 통해 정밀 의료와 치료제 개발의 가능성을 확장하고 있습니다"
 
-> 실험 : Virus vector engineering, Virus production, Gene & Cell therapy development,<br>
-         Stem cell engineering, Molecular & Cell Biology Techniques
+> 실험 : Virus vector engineering, Virus production, Gene & Cell therapy development, Stem cell engineering, Molecular & Cell Biology Techniques
 > 
 > 프로그래밍 : Python (pandas, numpy, scikit-learn, pytorch, matplotlib), SQL, Excel, Git<br>
 >
@@ -21,7 +20,7 @@
 **전임연구원** @ 아밀로이드솔루션  (2020 - 2021)
 
 - 중추신경계 (CNS) 유전자 치료제 개발을 위한 AAV 벡터 개발 프로젝트를 주도
-    - 유도진화 기법 (directed evolution)을 활용해 새로운 벡터 후보군을 도출
+    - 유도진화 기법 (directed evolution)을 활용해 새로운 벡터 후보군 도출
 - DNA 셔플링 및 펩타이드 삽입/치환 기술을 적용하여 AAV 라이브러리를 구축
     - 고효율 CNS 타깃 전달체 개발 기반 마련
  
